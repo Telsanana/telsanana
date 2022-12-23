@@ -1,0 +1,3 @@
+IP: TELSANANA.aternos.me
+Port: 16540
+name : TELSANANA
